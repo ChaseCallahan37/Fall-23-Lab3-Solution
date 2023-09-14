@@ -1,0 +1,15 @@
+/home/chase/Projects/221/solutions/lab-3/bin/Debug/net7.0/lab-3
+/home/chase/Projects/221/solutions/lab-3/bin/Debug/net7.0/lab-3.deps.json
+/home/chase/Projects/221/solutions/lab-3/bin/Debug/net7.0/lab-3.runtimeconfig.json
+/home/chase/Projects/221/solutions/lab-3/bin/Debug/net7.0/lab-3.dll
+/home/chase/Projects/221/solutions/lab-3/bin/Debug/net7.0/lab-3.pdb
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/lab-3.csproj.AssemblyReference.cache
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/lab-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/lab-3.AssemblyInfoInputs.cache
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/lab-3.AssemblyInfo.cs
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/lab-3.csproj.CoreCompileInputs.cache
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/lab-3.dll
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/refint/lab-3.dll
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/lab-3.pdb
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/lab-3.genruntimeconfig.cache
+/home/chase/Projects/221/solutions/lab-3/obj/Debug/net7.0/ref/lab-3.dll
